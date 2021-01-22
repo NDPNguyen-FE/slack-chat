@@ -110,7 +110,6 @@ class Messages extends React.Component {
       searchTerm,
       searchResults,
       searchLoading,
-      progressBar,
     } = this.state;
     return (
       <React.Fragment>
